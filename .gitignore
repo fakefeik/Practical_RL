@@ -75,3 +75,5 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+
+week02_value_based/mdp_get_action_value.py
