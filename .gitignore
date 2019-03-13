@@ -77,3 +77,5 @@ debian/files
 *.debhelper.log
 
 week02_value_based/mdp_get_action_value.py
+
+week03_model_free/qlearning.py
