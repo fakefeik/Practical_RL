@@ -79,3 +79,5 @@ debian/files
 week02_value_based/mdp_get_action_value.py
 
 week03_model_free/qlearning.py
+
+week04_approx_rl/videos
